@@ -1,0 +1,10 @@
+Package: com.clarkecdc.open
+Name: open
+Depends: 
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Open tool for iOS
+Maintainer: Christian/Clarke1232003
+Author: Christian/Clarke12342003
+Section: System
+Tag: role::hacker
